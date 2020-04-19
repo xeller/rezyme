@@ -1,0 +1,33 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.Soft-skills-conteiner {
+  background: sandybrown;
+  width: 400px;
+  height: 400px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+.Tech-skills-title {
+  font-size: 22px;
+  font-weight: 700px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.Tech-skills-conteiner {
+  background: tomato;
+  width: 400px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.Contacts-conteiner {
+  background: silver;
+  width: 400px;
+  height: 400px;
+  padding: 40px;
+  box-sizing: border-box;
+}
